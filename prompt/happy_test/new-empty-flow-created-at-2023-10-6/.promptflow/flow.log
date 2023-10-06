@@ -1,0 +1,11 @@
+2023-10-06 10:32:36 +0800   23064 execution          INFO     Start to run 5 nodes with concurrency level 16.
+2023-10-06 10:32:36 +0800   23064 execution.flow     INFO     Executing node fetch_text_from_url. node run id: 6763f328-8544-488f-b15c-c3bc03c0245f_fetch_text_from_url_0
+2023-10-06 10:32:36 +0800   23064 execution.flow     INFO     Executing node prepare_examples. node run id: 6763f328-8544-488f-b15c-c3bc03c0245f_prepare_examples_0
+2023-10-06 10:32:36 +0800   23064 execution.flow     INFO     Node prepare_examples completes.
+2023-10-06 10:32:36 +0800   23064 execution.flow     INFO     Node fetch_text_from_url completes.
+2023-10-06 10:32:36 +0800   23064 execution.flow     INFO     Executing node summarice_text_content. node run id: 6763f328-8544-488f-b15c-c3bc03c0245f_summarice_text_content_0
+2023-10-06 10:32:40 +0800   23064 execution.flow     INFO     Node summarice_text_content completes.
+2023-10-06 10:32:40 +0800   23064 execution.flow     INFO     Executing node classify_with_llm. node run id: 6763f328-8544-488f-b15c-c3bc03c0245f_classify_with_llm_0
+2023-10-06 10:32:42 +0800   23064 execution.flow     INFO     Node classify_with_llm completes.
+2023-10-06 10:32:42 +0800   23064 execution.flow     INFO     Executing node convert_to_dict. node run id: 6763f328-8544-488f-b15c-c3bc03c0245f_convert_to_dict_0
+2023-10-06 10:32:42 +0800   23064 execution.flow     INFO     Node convert_to_dict completes.
